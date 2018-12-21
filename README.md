@@ -4,7 +4,7 @@ The implementation is written in Java and leverages Spring MVC and JPA libraries
 
 
 ## Getting Started
-git clone <<>>
+git clone https://github.com/TravisQBrown/kenzan.git
 
 ### Prerequisites
 An instance of MySQL should be running. Once running, configure this project to use the MySQL
